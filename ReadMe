@@ -1,0 +1,7 @@
+Goodwe工作期间创作的python脚本，以供自己学习使用（或者以供后来之人工作学习使用）：
+1.bin2bin软件是应售后要求，将研发提供bin文件，转化为直接可以烧录的bin文件
+2.datasearch软件是一个前端展示工具，将调用后台查询到的json数据展示出来（最近我发现可以直接使用网页版，使用网络框架Django或者Flask，可以参考sqlite-web代码）
+3.HomeKitAts软件是产线上的需求，直接使用python开发
+4.SavePcba脚本是满足产线相关存储相关信息与查询相关信息的需求
+
+edit on 2019/08/13
